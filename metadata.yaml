@@ -1,4 +1,8 @@
 _repo: Cradock-Nowell-Vol-3-of-3-A-Tale-of-the-New-Forest_47086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47086-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackmore, R. D. (Richard Doddridge)
@@ -14,6 +18,8 @@ description: "Cradock Nowell: a tale of the New Forest is a three-volume novel b
   \ following the suspicious death of Cradock's twin brother Clayton. It was Blackmore's\
   \ second novel, and the novel he wrote prior to his most famous work Lorna Doone.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47086#Cradock-Nowell-Vol-3-of-3-A-Tale-of-the-New-Forest
 gutenberg_issued: '2014-10-09'
 gutenberg_type: Text
 identifiers:
